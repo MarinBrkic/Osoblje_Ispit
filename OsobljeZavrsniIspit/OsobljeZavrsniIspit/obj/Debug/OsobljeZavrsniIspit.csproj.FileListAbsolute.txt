@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\obj\Debug\OsobljeZavrsniIspit.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\obj\Debug\OsobljeZavrsniIspit.Form1.resources
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\obj\Debug\OsobljeZavrsniIspit.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\obj\Debug\OsobljeZavrsniIspit.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\obj\Debug\OsobljeZavrsniIspit.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\bin\Debug\OsobljeZavrsniIspit.exe.config
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\bin\Debug\OsobljeZavrsniIspit.exe
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\bin\Debug\OsobljeZavrsniIspit.pdb
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\obj\Debug\OsobljeZavrsniIspit.exe
+C:\Users\Ucenik\source\repos\OsobljeZavrsniIspit\OsobljeZavrsniIspit\obj\Debug\OsobljeZavrsniIspit.pdb
